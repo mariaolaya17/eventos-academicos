@@ -2,3 +2,8 @@ body{
     font-family: Arial;
     background-color: #f4f4f4;
 }
+
+input, button{
+    margin: 5px;
+    padding: 10px;
+}
