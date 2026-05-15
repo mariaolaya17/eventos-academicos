@@ -8,3 +8,5 @@ Proyecto usando Git y GitHub.
 - Verificar funcionamiento del dashboard
 
 - QA: mejorar visualización responsive
+
+- QA: validar estilos login
