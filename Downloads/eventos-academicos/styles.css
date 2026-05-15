@@ -21,3 +21,7 @@ nav{
 button{
     border:none;
 }
+
+section{
+    border-radius:10px;
+}
