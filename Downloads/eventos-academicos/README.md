@@ -6,3 +6,5 @@ Proyecto usando Git y GitHub.
 - Validar estilos responsive
 - Mejorar diseño del login
 - Verificar funcionamiento del dashboard
+
+- QA: mejorar visualización responsive
