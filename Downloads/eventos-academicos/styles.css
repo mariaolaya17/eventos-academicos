@@ -7,3 +7,9 @@ input, button{
     margin: 5px;
     padding: 10px;
 }
+
+section{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
