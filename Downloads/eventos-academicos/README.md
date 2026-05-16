@@ -14,3 +14,5 @@ Proyecto usando Git y GitHub.
 - QA: corregir visual dashboard
 
 - QA: validación de reportes
+
+- QA: revisión notificaciones
