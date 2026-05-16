@@ -12,3 +12,5 @@ Proyecto usando Git y GitHub.
 - QA: validar estilos login
 
 - QA: corregir visual dashboard
+
+- QA: validación de reportes
